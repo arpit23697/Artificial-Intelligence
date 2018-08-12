@@ -1,0 +1,11 @@
+Name - Arpit Singh
+Roll number - 111601031
+AI Lab2
+
+Files included
+Traffic.ipynb              -- code for the solution that to be opened jupyter notebook
+Traffic.py                 -- code for the solution to be opened in normal editors
+ans.csv                    -- spreadsheet that contains the answer
+
+#solution description
+#Commented in the code

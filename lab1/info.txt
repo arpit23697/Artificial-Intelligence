@@ -1,0 +1,11 @@
+Name - Arpit Singh
+Roll number - 111601031
+AI Lab1
+
+Files included
+Intro.py              -- code for the solution of the first question
+Traffic.py            -- code for the solution of the second question
+ans.csv               -- code for the solution of the third question
+
+#solution description
+#Commented in the code
