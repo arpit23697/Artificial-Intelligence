@@ -1,0 +1,11 @@
+Name - Arpit singh
+Roll number - 111601031
+AI LAB 3
+
+Files
+Grid.ipynb                 -- file that contains the source code in jupyter notebook
+Grid.py                    -- python file that contains the source code in python
+
+
+Description
+Refer to the comment
