@@ -1,0 +1,5 @@
+Name - Arpit singh
+Roll number - 111601031
+
+N^2 -1 puzzle using the A* heuristic
+This file solves the n^2-1 puzzle using the A* heuristic

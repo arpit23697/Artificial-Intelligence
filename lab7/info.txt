@@ -1,0 +1,29 @@
+Name - Arpit Singh
+Roll number - 111601031
+
+File description
+in.txt 				- The test case given in the lab
+in2.txt				- The test case created artificially for testing 
+
+A* on map			- code in python in jupyter notebook
+					- This contains the way to find the shortest path from the start state to the end state
+					- Here we use the A* heurisitic with the euclidean heuristic 
+					- In this we take the state as the vertex number
+					
+A* on time map 		- code in python in jupyter notebook for lab question 2
+					- This contains two parts
+							- First part
+							- this finds the path with the minimum time to move from the start state to the goal state given the congestion
+							- State is again given by the vertex number
+							- A* heuristic which takes the euclidean distance / speed as the heuristic
+							
+							
+							- Second part
+							- Finds the path with minimum time but keeping the budget in eye from the start state to the goal state
+							- State is given be the (vertex_number * budget_left) 
+							- Accuracy of the budget is upto 0.01
+							- A* heuristic which takes the euclidean distance / speed as the heuristic is used
+							- Note the function takes three argument 1. congestion
+																	 2. total budget
+																	 3. cost for taking the bus (cost is in money / hour)
+							- states which are having the negative budget are discarded

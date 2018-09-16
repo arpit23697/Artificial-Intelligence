@@ -1,0 +1,13 @@
+Name - Arpit singh
+Roll number - 111601031
+
+Files 
+Grid Environment - This code is in jupyter notebook 
+				 - It creates the environment for the grid search
+				 - Uses BFS with 4 directions to find the shortest path from start to goal
+				 - Uses A* with 4 directions and manhattan heuristic to find the shortest path from start to goal
+				 - Uses A* with 8 directions and euclidean heuristic to find the shortest path from start to goal
+				 
+Pariry check	- This creates the environment for the n^2 - 1 puzzle
+				- Then solves it using the BFS search and then prints the path
+				
