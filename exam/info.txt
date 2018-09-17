@@ -1,0 +1,15 @@
+Name - Arpit Singh
+Roll number - 111601031
+
+Description
+In this in order to solve the n^2 - 2 puzzle we are using the A* algorithm with the manhattan heuristic
+Here the state space (dimension * dimension)! / 2 state and the number of actions is equal to 8
+
+In my code 8 represents the first blank and 9 represents the second blank
+both are indistinguishable
+
+Frontier , q (queue) , explored state , d (complete information about the state ) are the data structures used
+First when we put the start state in the queue frontier update the value of d
+Now in each loop : we pop the state with the minimum estimated cost, check if it is the goal state and then explore all the possible actions on
+that state and put the new state in the frontier and the queue
+If it is already in the frontier then update the cost if necessary
