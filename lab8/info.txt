@@ -1,0 +1,11 @@
+Name - Arpit singh
+Roll number - 111601031
+
+
+#this has only one file value_iteration_over_grid
+
+In this file we are implementing value Iteration and policy Iteration 
+on the grid. It is the stochastic environment and we are finding the best policy
+in this environment. The policy depends on the stochastic environment and the discount factor
+
+#enough comment are in the code itself
